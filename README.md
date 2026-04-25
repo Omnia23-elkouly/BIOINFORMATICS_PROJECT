@@ -36,8 +36,8 @@
 ## 🖼️ System Architecture
 
 <p align="center">
-  <img src="Architicture
-    .png" width="800"/>
+  <img src="Archticture.png" width="800"/>
+    
 </p>
 
 ---
