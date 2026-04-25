@@ -36,7 +36,8 @@
 ## 🖼️ System Architecture
 
 <p align="center">
-  <img src="ChatGPT Image Apr 24, 2026, 04_34_03 AM.png" width="800"/>
+  <img src="Architicture
+    .png" width="800"/>
 </p>
 
 ---
